@@ -1,1 +1,3 @@
 //Aqui é para por as alterações que fizemos ao trabalho
+
+1.Foram adicionadas as maquinas A-D, para depois voltar ao estado inicial fazer por MACROS
